@@ -41,5 +41,5 @@ Restart=always
 WantedBy=multi-user.target
 ```
 
-*More pleasant automatically*
+*More pleasant automatically.*
 *I accept ideas and corrections*
