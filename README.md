@@ -5,7 +5,7 @@ This bot does not send a message to users who accidentally find this bot in Tele
 * Create ssh tunnel- and show the public address.
 * Kill ngrok.
 * Show public address ssh tunnel.
-*Created by default TCP from port 22*
+*Created by default TCP from port 22.*
 *Buttons in Russian, can be changed in the file utils.py*
 
 ### Install, start.
@@ -41,3 +41,4 @@ WantedBy=multi-user.target
 ```
 
 *More pleasant automatically*
+*I accept ideas and corrections*
